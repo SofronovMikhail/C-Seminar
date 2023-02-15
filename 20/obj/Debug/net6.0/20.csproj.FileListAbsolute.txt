@@ -1,0 +1,15 @@
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\bin\Debug\net6.0\20.exe
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\bin\Debug\net6.0\20.deps.json
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\bin\Debug\net6.0\20.runtimeconfig.json
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\bin\Debug\net6.0\20.dll
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\bin\Debug\net6.0\20.pdb
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.csproj.AssemblyReference.cache
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.AssemblyInfoInputs.cache
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.AssemblyInfo.cs
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.csproj.CoreCompileInputs.cache
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.dll
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\refint\20.dll
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.pdb
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\20.genruntimeconfig.cache
+C:\Users\а\Desktop\моя\Учеба\C-Seminar\20\obj\Debug\net6.0\ref\20.dll
