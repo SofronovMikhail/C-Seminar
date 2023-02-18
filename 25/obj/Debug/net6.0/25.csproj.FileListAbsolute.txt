@@ -1,0 +1,5 @@
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\25\obj\Debug\net6.0\25.csproj.AssemblyReference.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\25\obj\Debug\net6.0\25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\25\obj\Debug\net6.0\25.AssemblyInfoInputs.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\25\obj\Debug\net6.0\25.AssemblyInfo.cs
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\25\obj\Debug\net6.0\25.csproj.CoreCompileInputs.cache
