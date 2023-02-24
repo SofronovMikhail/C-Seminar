@@ -1,0 +1,15 @@
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\bin\Debug\net6.0\27.exe
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\bin\Debug\net6.0\27.deps.json
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\bin\Debug\net6.0\27.runtimeconfig.json
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\bin\Debug\net6.0\27.dll
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\bin\Debug\net6.0\27.pdb
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.csproj.AssemblyReference.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.AssemblyInfoInputs.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.AssemblyInfo.cs
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.csproj.CoreCompileInputs.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.dll
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\refint\27.dll
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.pdb
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\27.genruntimeconfig.cache
+C:\Users\Работа\Desktop\Учеба\GitSeminar\C-Seminar\27\obj\Debug\net6.0\ref\27.dll
